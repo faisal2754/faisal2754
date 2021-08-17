@@ -32,5 +32,5 @@
 
 ## Github Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=faisal2754&theme=light)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal2754&theme=light)
+![stats](https://github-readme-stats.vercel.app/api?username=faisal2754&theme=light)
