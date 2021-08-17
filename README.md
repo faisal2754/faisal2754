@@ -1,4 +1,4 @@
-![Hi](./images/Github_Intro.png)
+![Hi](./images/github_intro.png)
 
 ## Contact Me
 
